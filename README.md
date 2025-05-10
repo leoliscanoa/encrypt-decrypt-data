@@ -4,6 +4,22 @@ A desktop application for encrypting and decrypting 6-digit numbers using a simp
 
 ![Application Demo](assets/app-demo.gif)
 
+## Table of Contents
+
+- [Features](#features)
+- [Encryption Algorithm](#encryption-algorithm)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+  - [Key Elements](#key-elements)
+- [Troubleshooting](#troubleshooting)
+  - [Common Issues](#common-issues)
+- [License](#license)
+- [Author](#author)
+- [References](#references)
+
+
 ## Features
 
 - **Encryption**: Convert a 6-digit number into an encrypted form using a simple algorithm
